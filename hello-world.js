@@ -1,1 +1,3 @@
 console.log("Hello, World!")
+//Só comentando que isso me lembra a abertura de Kekkai Sensen rs...
+console.log("Olá, Mundo!")
